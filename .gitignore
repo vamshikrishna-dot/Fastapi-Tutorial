@@ -1,0 +1,17 @@
+# Virtual environments
+myenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets and local databases
+.env
+*.db
+*.sqlite3
+
+# Editors
+.idea/
+.vscode/
